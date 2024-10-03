@@ -1,4 +1,4 @@
-ublic class MessageUtil {
+public class MessageUtil {
   private String message;
 
   public MessageUtil(String message) {
